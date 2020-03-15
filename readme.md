@@ -7,6 +7,10 @@
 
 ## Usage
 
+`npm install`
+
+Then:
+
 `npm link` 
 
 Then:
